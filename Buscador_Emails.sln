@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buscador_Emails", "Buscador_Emails.csproj", "{2CD21917-89B0-41F3-85E5-13ACB39F5687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD21917-89B0-41F3-85E5-13ACB39F5687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD21917-89B0-41F3-85E5-13ACB39F5687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD21917-89B0-41F3-85E5-13ACB39F5687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD21917-89B0-41F3-85E5-13ACB39F5687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2780BB0A-2550-4AE4-8EE3-5C80F4C0A5C2}
+	EndGlobalSection
+EndGlobal
